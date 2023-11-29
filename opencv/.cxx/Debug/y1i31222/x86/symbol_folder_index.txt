@@ -1,0 +1,1 @@
+/Users/yuvrajsingh/AndroidStudioProjects/MyApplication/opencv/build/intermediates/cxx/Debug/y1i31222/obj/x86

@@ -1,0 +1,3 @@
+/Users/yuvrajsingh/AndroidStudioProjects/MyApplication/opencv/.cxx/RelWithDebInfo/4f4y3q6z/x86/CMakeFiles/opencv_jni_shared.dir
+/Users/yuvrajsingh/AndroidStudioProjects/MyApplication/opencv/.cxx/RelWithDebInfo/4f4y3q6z/x86/CMakeFiles/edit_cache.dir
+/Users/yuvrajsingh/AndroidStudioProjects/MyApplication/opencv/.cxx/RelWithDebInfo/4f4y3q6z/x86/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/Users/yuvrajsingh/AndroidStudioProjects/MyApplication/opencv/build/intermediates/cxx/RelWithDebInfo/6w6az2g4/obj/x86

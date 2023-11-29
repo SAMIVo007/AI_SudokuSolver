@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "460397041603",
+    "project_id": "opencv-460",
+    "storage_bucket": "opencv-460.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460397041603:android:a35c4dd67a08de611fcf76",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrCX2vXq3cJH-PvG_WkgWsyfdx7Wy3W3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
